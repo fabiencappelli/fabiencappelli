@@ -15,7 +15,7 @@ Most of my work starts with a concrete problem and ends somewhere between softwa
 
 ---
 
-## Current Projects
+## Current (Public) Projects (on my GitHub)
 
 ### Robie
 
